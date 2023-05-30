@@ -12,7 +12,7 @@ Throughout the book, readers will find case studies, real-life examples, and pra
 
 Whether you are a business owner, executive, or manager looking to stay ahead of the curve in the rapidly evolving world of AI, "Artificial Intelligence in Business: How Intelligent Technologies Will Transform the Corporate Landscape" provides valuable insights and practical strategies to help you achieve your goals.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
