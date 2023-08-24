@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field of technology that is transforming the way businesses operate in a digital age. In this chapter, we will explore the background and fundamentals of AI, with a focus on the history of artificial intelligence and its impact on business.
 

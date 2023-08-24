@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) has become increasingly prevalent in recent years, but its origins can be traced back to the mid-20th century. In this chapter, we will explore the background and fundamentals of AI, including its history, types, and machine learning techniques.
 

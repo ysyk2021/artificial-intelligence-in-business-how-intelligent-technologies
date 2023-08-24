@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform the way businesses operate and create value. At the heart of AI is machine learning, a subset of AI that focuses on enabling machines to learn and improve from data without being explicitly programmed. In this chapter, we will explore the fundamentals of machine learning and its various techniques.
 

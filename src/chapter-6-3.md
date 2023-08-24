@@ -1,5 +1,3 @@
-Supply Chain Management and Logistics
-===============================================================================
 
 Supply chain management and logistics are critical components of any business operation, and the use of artificial intelligence (AI) can help businesses streamline these processes and gain a competitive edge. In this chapter, we will explore some of the ways in which AI is being used to transform supply chain management and logistics.
 

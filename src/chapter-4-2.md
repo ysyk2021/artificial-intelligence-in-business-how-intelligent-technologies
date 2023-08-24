@@ -1,5 +1,3 @@
-Economic Disruption and Job Losses
-=======================================================================
 
 While artificial intelligence (AI) holds tremendous promise for transforming the business landscape, there are also concerns about its potential impact on the labor market and the economy at large. In this chapter, we will explore some of the ways in which AI is already disrupting traditional economic models and contributing to job losses.
 

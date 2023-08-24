@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI in Business
-==========================================
 
 Artificial intelligence (AI) is already transforming the way businesses operate, with AI-powered tools and technologies becoming increasingly prevalent across a range of industries. In this chapter, we will explore the current state of AI in business by examining some of the examples of AI applications today and trends in AI adoption.
 

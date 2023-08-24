@@ -1,5 +1,3 @@
-Customer Experience and Service Delivery
-==================================================================================
 
 One of the most promising ways in which artificial intelligence (AI) is transforming the corporate landscape is through the creation of AI-powered business solutions for customer experience and service delivery. In this chapter, we will explore some of the ways in which businesses are leveraging AI to provide better customer experiences and streamline their service delivery.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Business
-=========================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field of technology that is transforming the way businesses operate in a digital age. In this chapter, we will provide an overview of AI and its impact on business.
 

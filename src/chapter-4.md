@@ -1,5 +1,3 @@
-Chapter 4: Impact of AI on Business
-===================================
 
 The impact of artificial intelligence (AI) on business cannot be overstated. From changes in the workforce to improvements in efficiency and productivity, AI is transforming the corporate landscape in significant ways. In this chapter, we will explore some of the impacts of AI on business.
 
