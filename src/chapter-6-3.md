@@ -1,5 +1,4 @@
-Chapter: Supply Chain Management and Logistics
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of artificial intelligence (AI) on supply chain management and logistics. Intelligent technologies are revolutionizing the way businesses manage their supply chains, optimize operations, and deliver products and services to customers. We will delve into various AI applications that are reshaping the corporate landscape in terms of supply chain efficiency, visibility, and agility.
 

@@ -1,5 +1,4 @@
-Chapter: Trends in AI Adoption in Business
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) adoption in business has witnessed significant growth and transformation in recent years. As intelligent technologies continue to evolve, organizations across various industries are embracing AI to gain a competitive edge, drive innovation, and transform their operations. In this chapter, we will discuss some of the key trends in AI adoption and how they are reshaping the corporate landscape.
 

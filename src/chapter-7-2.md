@@ -1,5 +1,4 @@
-Chapter: Predictions for the Future of AI and Business
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance at an unprecedented pace, its impact on the business world is set to be transformative. In this chapter, we will explore some predictions for the future of AI and how it will shape the corporate landscape in the coming years.
 

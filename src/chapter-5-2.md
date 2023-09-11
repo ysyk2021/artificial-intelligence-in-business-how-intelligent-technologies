@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Artificial Intelligence
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to evolve and becomes more embedded in the corporate landscape, it is essential to address the ethical considerations surrounding its development and deployment. This chapter explores some of the ethical issues that arise with the use of AI in business and highlights the need for a responsible approach.
 

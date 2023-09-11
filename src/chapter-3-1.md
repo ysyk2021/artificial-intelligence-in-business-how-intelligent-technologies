@@ -1,5 +1,4 @@
-Chapter 8: Examples of AI Applications Today
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is rapidly transforming the corporate landscape, and its applications are becoming increasingly prevalent across various industries. In this chapter, we will explore some compelling examples of AI applications that are shaping the business world today.
 

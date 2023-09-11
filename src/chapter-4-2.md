@@ -1,5 +1,4 @@
-Chapter: Economic Disruption and Job Losses
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential economic disruptions and job losses that may arise as a result of the widespread adoption of artificial intelligence (AI) and intelligent technologies in various industries. While AI offers numerous benefits and transformative opportunities, it also poses challenges and concerns regarding the displacement of human workers and shifts in employment dynamics.
 
